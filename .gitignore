@@ -1,2 +1,5 @@
 # ignore all .txt files
 *.txt
+
+# ignore Git Commands Cheat Sheet.htm
+Git Commands Cheat Sheet.htm
