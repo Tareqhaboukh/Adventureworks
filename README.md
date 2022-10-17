@@ -4,6 +4,8 @@ Exploring the Adventureworks dataset using AZURE Data Studio
 
 ## SQL Exercises & Solutions
 
+### [Notebook File](Questions_1-20.ipynb)
+
 Taken from [w3resource](https://www.w3resource.com/sql-exercises/adventureworks/adventureworks-exercises.php)
 
 ### Question 1
