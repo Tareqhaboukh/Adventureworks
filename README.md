@@ -3,10 +3,11 @@
 Exploring the Adventureworks dataset using AZURE Data Studio
 
 ## [SQL Exercises & Solutions](w3resource-SQL-Practice/SQL_Exercises_&_Solutions.ipynb)
-25 out of 81 (Excersises can be found on [w3resource.com](https://www.w3resource.com/sql-exercises/adventureworks/adventureworks-exercises.php))
+25 Excersises out of 81 (can be found on [w3resource.com](https://www.w3resource.com/sql-exercises/adventureworks/adventureworks-exercises.php))
 
 ![30](https://progress-bar.dev/30)
 
+### Preview:
 #### Excersise 1
 
 From the following table write a query in SQL to retrieve all rows and columns from the employee table in the Adventureworks database. Sort the result set in ascending order on jobtitle.
