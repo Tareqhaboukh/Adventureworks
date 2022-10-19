@@ -1,4 +1,4 @@
-# Adventureworks
+![Adventureworks Logo](adventure-works-logo-150x150.png)
 
 Exploring the Adventureworks dataset using AZURE Data Studio
 
