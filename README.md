@@ -7,7 +7,7 @@ Exploring the Adventureworks dataset using AZURE Data Studio
 
 ![30](https://progress-bar.dev/30)
 
-### Preview:
+### Preview (1 - 5):
 #### Excersise 1
 
 From the following table write a query in SQL to retrieve all rows and columns from the employee table in the Adventureworks database. Sort the result set in ascending order on jobtitle.
