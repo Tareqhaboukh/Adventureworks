@@ -4,7 +4,9 @@ Exploring the Adventureworks dataset using AZURE Data Studio
 
 ## SQL Exercises & Solutions
 
-### [Notebook File](w3resource-SQL-Practice/Questions_1-20.ipynb)
+### [SQL Exercises & Solutions](w3resource-SQL-Practice/SQL Exercises & Solutions.ipynb)
+<label for="file">25 out of 81</label>
+<progress id="file" value="32" max="100"> 30% </progress>
 
 Taken from [w3resource](https://www.w3resource.com/sql-exercises/adventureworks/adventureworks-exercises.php)
 
